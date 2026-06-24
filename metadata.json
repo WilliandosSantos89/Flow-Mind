@@ -1,0 +1,6 @@
+{
+  "name": "FlowMind",
+  "description": "Cockpit de produtividade inteligente integrado ao Google Workspace (GTD, Eisenhower, Pomodoro, Ivy Lee).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
